@@ -4,6 +4,8 @@
 
 ForkForward continues open-source libraries after their original line of development stops being open. We start from the last version published under a permissive licence, keep its history and its credits, and keep it building on current platforms.
 
+Website and documentation: **[forkforward.dev](https://forkforward.dev)**
+
 - **Developed with AI tools.** Changes are written by AI coding tools and automation.
 - **Reviewed by people.** A named maintainer reviews every change and decides what is released.
 - **Credit stays with the authors.** Every project says which library it continues, who wrote it, and under which licence. Original copyright and licence notices are never removed.
@@ -14,9 +16,9 @@ ForkForward continues open-source libraries after their original line of develop
 
 ### .NET
 
-| Repository | Package | Continues | Status |
-|---|---|---|---|
-| [dotnet-mapper](https://github.com/ForkForward/dotnet-mapper) | [`ForkForward.Mapper`](https://www.nuget.org/packages/ForkForward.Mapper) | AutoMapper 14.0.0 (MIT) by Jimmy Bogard and contributors | Preview on nuget.org; no stable release yet |
+| Repository | Documentation | Package | Continues | Status |
+|---|---|---|---|---|
+| [dotnet-mapper](https://github.com/ForkForward/dotnet-mapper) | [forkforward.dev/dotnet-mapper](https://forkforward.dev/dotnet-mapper/) | [`ForkForward.Mapper`](https://www.nuget.org/packages/ForkForward.Mapper) | AutoMapper 14.0.0 (MIT) by Jimmy Bogard and contributors | Stable: 14.1.0 on nuget.org |
 
 ## How repositories are named
 
