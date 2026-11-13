@@ -20,7 +20,7 @@ Website and documentation: **[forkforward.dev](https://forkforward.dev)**
 |---|---|---|---|---|
 | [dotnet-cargo](https://github.com/ForkForward/dotnet-cargo) | [forkforward.dev/dotnet-cargo](https://forkforward.dev/dotnet-cargo/) | [`ForkForward.Cargo`](https://www.nuget.org/packages/ForkForward.Cargo) | MassTransit 8.5.12 (Apache 2.0) by Chris Patterson, Dru Sellers and contributors | Previews on nuget.org |
 | [dotnet-mapper](https://github.com/ForkForward/dotnet-mapper) | [forkforward.dev/dotnet-mapper](https://forkforward.dev/dotnet-mapper/) | [`ForkForward.Mapper`](https://www.nuget.org/packages/ForkForward.Mapper) | AutoMapper 14.0.0 (MIT) by Jimmy Bogard and contributors | Stable: 14.1.1 on nuget.org |
-| [dotnet-mediator](https://github.com/ForkForward/dotnet-mediator) | [forkforward.dev/dotnet-mediator](https://forkforward.dev/dotnet-mediator/) | [`ForkForward.Mediator`](https://www.nuget.org/packages/ForkForward.Mediator) | MediatR 12.5.0 (Apache 2.0) by Jimmy Bogard and contributors | Stable: 12.8.0 on nuget.org |
+| [dotnet-mediator](https://github.com/ForkForward/dotnet-mediator) | [forkforward.dev/dotnet-mediator](https://forkforward.dev/dotnet-mediator/) | [`ForkForward.Mediator`](https://www.nuget.org/packages/ForkForward.Mediator) | MediatR 12.5.0 (Apache 2.0) by Jimmy Bogard and contributors | Stable: 13.0.0 on nuget.org, for .NET 10 and .NET 11; 12.8.0 for .NET Standard 2.0 |
 
 ## How repositories are named
 
